@@ -1,4 +1,4 @@
-# awesome ocelot
+﻿# awesome ocelot
 A curated list of awesome ocelot books, courses, trainings, conference talks, blogs and most inspiring open source contributors
 
 ## Conference talks
@@ -24,6 +24,11 @@ A curated list of awesome ocelot books, courses, trainings, conference talks, bl
 ## Video Courses
 
 ## Known Users
+
+> In accordance with the order of registration, more access to the company, Welcome to register in [https://github.com/geffzhang/awesome-ocelot/issues/1](https://github.com/geffzhang/awesome-ocelot/issues/1)
+
+![Tencent](https://raw.githubusercontent.com/geffzhang/awesome-ocelot/master/doc/images/known-users/tencent.png) 
+![Microsoft](https://raw.githubusercontent.com/geffzhang/awesome-ocelot/master/doc/images/known-users/microsoft.png) 
 
 # Stargazers over time
 [![Stargazers over time](https://starcharts.herokuapp.com/ThreeMammals/Ocelot.svg)](https://starcharts.herokuapp.com/ThreeMammals/Ocelot)
