@@ -16,6 +16,9 @@ A curated list of awesome ocelot books, courses, trainings, conference talks, bl
 ## Blogs
 
 ## Article series
+* [Designing and implementing API Gateways with Ocelot in .NET Core containers and microservices architectures](https://blogs.msdn.microsoft.com/cesardelatorre/2018/05/15/designing-and-implementing-api-gateways-with-ocelot-in-a-microservices-and-container-based-architecture/)
+* [Implement API Gateways with Ocelot](https://docs.microsoft.com/en-us/dotnet/standard/microservices-architecture/multi-container-microservice-net-applications/implement-api-gateways-with-ocelot)
+
 
 ## OcelotContrib
 * [Ocelot Extensions is the project containing some extension to the popular open-source API Gateway engine Ocelot](https://github.com/childotg/Ocelot.Extensions)
@@ -33,6 +36,9 @@ A curated list of awesome ocelot books, courses, trainings, conference talks, bl
 ## Books
 
 ## Video Courses
+* [https://www.youtube.com/watch?v=kl-NeEAb1WQ](https://www.youtube.com/watch?v=kl-NeEAb1WQ)
+* [https://www.youtube.com/watch?v=Kvj1g6dLAZw](https://www.youtube.com/watch?v=Kvj1g6dLAZw)
+
 
 ## Known Users
 
