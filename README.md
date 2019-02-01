@@ -1,6 +1,8 @@
 ﻿# awesome ocelot
 A curated list of awesome ocelot books, courses, trainings, conference talks, blogs and most inspiring open source contributors
 
+.NET core API Gateway : http://threemammals.com/ocelot
+
 ## Conference talks
 
 ## Inspiring Open Source Contributors
