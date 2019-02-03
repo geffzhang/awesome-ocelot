@@ -18,8 +18,17 @@ A curated list of awesome ocelot books, courses, trainings, conference talks, bl
 ## Blogs
 
 ## Article series
+* [Developing an Open Source API Gateway at Moonpig](https://engineering.moonpig.com/development/developing-open-source-api-gateway-moonpig)
 * [Designing and implementing API Gateways with Ocelot in .NET Core containers and microservices architectures](https://blogs.msdn.microsoft.com/cesardelatorre/2018/05/15/designing-and-implementing-api-gateways-with-ocelot-in-a-microservices-and-container-based-architecture/)
 * [Implement API Gateways with Ocelot](https://docs.microsoft.com/en-us/dotnet/standard/microservices-architecture/multi-container-microservice-net-applications/implement-api-gateways-with-ocelot)
+* [Building API Gateway Using Ocelot In ASP.NET Core - Basic](http://www.c-sharpcorner.com/article/building-api-gateway-using-ocelot-in-asp-net-core/)
+* [Building API Gateway Using Ocelot In ASP.NET Core - Authentication](http://www.c-sharpcorner.com/article/building-api-gateway-using-ocelot-in-asp-net-core-part-two/)
+* [Building API Gateway Using Ocelot In ASP.NET Core - Logging](http://www.c-sharpcorner.com/article/building-api-gateway-using-ocelot-in-asp-net-core-part-three-logging2/)
+* [Building API Gateway Using Ocelot In ASP.NET Core - Rate Limiting](http://www.c-sharpcorner.com/article/building-api-gateway-using-ocelot-in-asp-net-core-rate-limiting-part-four/)
+* [Building API Gateway Using Ocelot In ASP.NET Core - QoS (Quality of Service) ](https://www.c-sharpcorner.com/article/building-api-gateway-using-ocelot-in-asp-net-core-qos/)
+* [Building API Gateway Using Ocelot In ASP.NET Core - Load Balancing](https://www.c-sharpcorner.com/article/building-api-gateway-using-ocelot-in-asp-net-core-load-balancing/)
+* [ Building API Gateway Using Ocelot In ASP.NET Core - Service Discovery (Eureka)](https://www.c-sharpcorner.com/article/building-api-gateway-using-ocelot-in-asp-net-core-service-discoveryeureka/)
+* [Microservices with IdentityServer4 and Ocelot Fronting a .NET Core API](https://squarewidget.com/microservices-with-identityserver4-and-ocelot-fronting-a-net-core-api/)
 
 
 ## OcelotContrib
@@ -37,9 +46,11 @@ A curated list of awesome ocelot books, courses, trainings, conference talks, bl
 
 ## Books
 
+
 ## Video Courses
 * [https://www.youtube.com/watch?v=kl-NeEAb1WQ](https://www.youtube.com/watch?v=kl-NeEAb1WQ)
 * [https://www.youtube.com/watch?v=Kvj1g6dLAZw](https://www.youtube.com/watch?v=Kvj1g6dLAZw)
+* [Ocelot Api Gateway with ASP.NET Core 2.1 and VS Code](https://codango.com/ocelot-api-gateway-with-asp-net-core-2-1-and-vs-code/)
 
 
 ## Known Users
