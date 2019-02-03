@@ -36,6 +36,7 @@ A curated list of awesome ocelot books, courses, trainings, conference talks, bl
 * [Ocelot.Provider.Database](https://github.com/tianxin8206/Ocelot.Provider.Database)
 * [This library makes ocelot easy to integrate swagger](https://github.com/Rwing/OcelotSwagger)
 * [SwaggerHelper 工具是在使用 Ocelot 时，为了将多个微服务的 Swagger.json 文件进行合并，以方便在 API 网关中使用 Swagger 工具](https://github.com/ZhongruiGroup/Swagger-Helper)
+* [MMLib.SwaggerForOcelot contains swagger extension for ocelot](https://github.com/Burgyn/MMLib.SwaggerForOcelot)
 * [grpc service gateway used ocelot](https://github.com/BuiltCloud/Ocelot.GrpcHttpGateway)
 * [grpc service gateway used ocelot](https://github.com/yuezhishun/Ocelot.GrpcHttpGateway)
 * [Repo for ZooKeeper integration with Ocelot](https://github.com/BuiltCloud/Ocelot.Provider.ZooKeeper)
