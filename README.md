@@ -46,7 +46,7 @@ A curated list of awesome ocelot books, courses, trainings, conference talks, bl
 * [A configuration editor for Ocelot](https://github.com/dbarkwell/Ocelot.ConfigEditor)
 
 ## Books
-
+* [.NET Microservices Architecture Guidance](https://dotnet.microsoft.com/learn/web/microservices-architecture)
 
 ## Video Courses
 * [https://www.youtube.com/watch?v=kl-NeEAb1WQ](https://www.youtube.com/watch?v=kl-NeEAb1WQ)
