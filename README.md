@@ -15,7 +15,19 @@ A curated list of awesome ocelot books, courses, trainings, conference talks, bl
 * [Felix Boers](https://github.com/FelixBoers)
 * [Marcelo Castagna](https://github.com/margaale)
 
-## Blogs
+## Sample Projects
+* [FamilyBucket 集合.net core、ocelot、consul、eventbus、configserver、tracing、sqlsugar等构建的微服务一条龙应用示例](https://github.com/q315523275/FamilyBucket)
+* [Simple samples that use Ocelot to build API Gateway](https://github.com/catcherwong-archive/APIGatewayDemo)
+* [DMS将会是一个集中式的中间件框架，每一个小型中间件将会是完全独立的，如：gRPC，Thrift，netty，Wcf，Exceptionless，Ocelot，RabbitMQ，Redis，IdentityServer，Consul，Zookeeper等，Demo中会有每一个中间件的实例方便开发者了解](https://github.com/hailang2ll/DMS)
+* [基于Consul + .NET Core + Polly + Ocelot + Exceptionless + IdentityServer等开源项目的微服务开发框架
+](https://github.com/geffzhang/NanoFabric) 
+* [Ocelot使用案例，结合IdentityServer4进行鉴权，结合Consul进行服务治理](https://github.com/ShaoHans/OcelotSample )
+* [一个基于IdentityServer4和Ocelot的统一验证与授权ASP.NET Core微服务示例程序项目](https://github.com/EdisonChou/IdentityService.Sample.DotNetCore)
+* [基于ocelot扩展自定义网关](https://github.com/jinyancao/czar.gateway)
+* [ASP.NET Core 2.2 Web API Gateway Demo](https://github.com/matjazbravc/AspNetCore-Api-Gateway-Demo)
+* [集IdentityServer4,Ef Core,dapper,Policy,领域驱动设计,consul,zipkin,Swagger,Cap+RabbitMq,Ocelot网关一体的项目](https://github.com/476515159/IdentityServer4Sample)
+* [docker Ocelot Console Identityserver4](https://github.com/cysnet/docker-microserver)
+* [重写Ocelot配置文件获取方式从数据库中获取，并重写认证以及限流功能。可以针对每个客户端对每个API的访问进行限制](https://github.com/yilezhu/Ocelot.ConfigAuthLimitCache)
 
 ## Article series
 * [Developing an Open Source API Gateway at Moonpig](https://engineering.moonpig.com/development/developing-open-source-api-gateway-moonpig)
@@ -29,6 +41,7 @@ A curated list of awesome ocelot books, courses, trainings, conference talks, bl
 * [Building API Gateway Using Ocelot In ASP.NET Core - Load Balancing](https://www.c-sharpcorner.com/article/building-api-gateway-using-ocelot-in-asp-net-core-load-balancing/)
 * [ Building API Gateway Using Ocelot In ASP.NET Core - Service Discovery (Eureka)](https://www.c-sharpcorner.com/article/building-api-gateway-using-ocelot-in-asp-net-core-service-discoveryeureka/)
 * [Microservices with IdentityServer4 and Ocelot Fronting a .NET Core API](https://squarewidget.com/microservices-with-identityserver4-and-ocelot-fronting-a-net-core-api/)
+* [Ocelot简易教程](https://github.com/yilezhu/OcelotDemo/wiki)
 
 
 ## OcelotContrib
@@ -37,6 +50,8 @@ A curated list of awesome ocelot books, courses, trainings, conference talks, bl
 * [This library makes ocelot easy to integrate swagger](https://github.com/Rwing/OcelotSwagger)
 * [SwaggerHelper 工具是在使用 Ocelot 时，为了将多个微服务的 Swagger.json 文件进行合并，以方便在 API 网关中使用 Swagger 工具](https://github.com/ZhongruiGroup/Swagger-Helper)
 * [MMLib.SwaggerForOcelot contains swagger extension for ocelot](https://github.com/Burgyn/MMLib.SwaggerForOcelot)
+* [Ocelot.JWTAuthorize is a JWT Authorize based on Ocelot API Gateway](https://github.com/axzxs2001/Ocelot.JWTAuthorize)
+*  [Ocelot.Security.AuthorizationToken.EntityFramework](https://github.com/aqa510415008/Ocelot.Security.AuthorizationToken.EntityFramework)
 * [grpc service gateway used ocelot](https://github.com/BuiltCloud/Ocelot.GrpcHttpGateway)
 * [grpc service gateway used ocelot](https://github.com/yuezhishun/Ocelot.GrpcHttpGateway)
 * [Repo for ZooKeeper integration with Ocelot](https://github.com/BuiltCloud/Ocelot.Provider.ZooKeeper)
