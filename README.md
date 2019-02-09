@@ -65,7 +65,7 @@ WebSite: http://threemammals.com/ocelot
 ## Books
 * [.NET Microservices Architecture Guidance](https://dotnet.microsoft.com/learn/web/microservices-architecture)
 
-## Video Courses
+## Video
 * [https://www.youtube.com/watch?v=kl-NeEAb1WQ](https://www.youtube.com/watch?v=kl-NeEAb1WQ)
 * [https://www.youtube.com/watch?v=Kvj1g6dLAZw](https://www.youtube.com/watch?v=Kvj1g6dLAZw)
 * [Ocelot Api Gateway with ASP.NET Core 2.1 and VS Code](https://codango.com/ocelot-api-gateway-with-asp-net-core-2-1-and-vs-code/)
