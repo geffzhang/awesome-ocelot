@@ -6,6 +6,7 @@ WebSite: http://threemammals.com/ocelot
 
 
 ## Conference talks
+* [.NET Core 在腾讯财付通的企业级应用开发实践](https://v.qq.com/iframe/player.html?vid=c0508ti8mxo)
 
 ## Inspiring Open Source Contributors
 * [Tom Pallister](https://github.com/TomPallister)
@@ -74,7 +75,7 @@ WebSite: http://threemammals.com/ocelot
 * [https://www.youtube.com/watch?v=Kvj1g6dLAZw](https://www.youtube.com/watch?v=Kvj1g6dLAZw)
 * [Ocelot Api Gateway with ASP.NET Core 2.1 and VS Code](https://codango.com/ocelot-api-gateway-with-asp-net-core-2-1-and-vs-code/)
 * [Tencent updates web and mobile payment infrastructure for better scalability and agility](http://videos.microsoft.com/customer-stories/watch/Ub3bRAkE76CkemSfXkioug)
-* [.NET Core 在腾讯财付通的企业级应用开发实践](https://v.qq.com/iframe/player.html?vid=c0508ti8mxo)
+
 
 ## Known Users
 
