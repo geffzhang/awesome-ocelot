@@ -45,7 +45,9 @@ WebSite: http://threemammals.com/ocelot
 * [Microservices with IdentityServer4 and Ocelot Fronting a .NET Core API](https://squarewidget.com/microservices-with-identityserver4-and-ocelot-fronting-a-net-core-api/)
 * [Ocelot简易教程](https://github.com/yilezhu/OcelotDemo/wiki)
 * [Ocelot API网关的实现剖析](https://www.cnblogs.com/shanyou/p/7787183.html)
+* [基于Ocelot的API网关实现--http/https协议篇](https://www.cnblogs.com/SteveLee/p/Ocelot_Api_http_and_https.html)
 * [基于Ocelot的API网关Relay实现--RPC篇](https://www.cnblogs.com/SteveLee/p/Ocelot_Api_http_route_RPC.html)
+* [.NET Core微服务实战-统一身份认证 开篇及目录索引](https://www.cnblogs.com/jackcao/p/9928879.html)
 
 
 ## OcelotContrib
