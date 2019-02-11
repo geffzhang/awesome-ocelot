@@ -4,9 +4,45 @@ A curated list of awesome ocelot books, courses, trainings, conference talks, bl
 Github: https://github.com/ThreeMammals/Ocelot
 WebSite: http://threemammals.com/ocelot
 
+## Article series
+* [Developing an Open Source API Gateway at Moonpig](https://engineering.moonpig.com/development/developing-open-source-api-gateway-moonpig)
+* [Designing and implementing API Gateways with Ocelot in .NET Core containers and microservices architectures](https://blogs.msdn.microsoft.com/cesardelatorre/2018/05/15/designing-and-implementing-api-gateways-with-ocelot-in-a-microservices-and-container-based-architecture/)
+* [Implement API Gateways with Ocelot](https://docs.microsoft.com/en-us/dotnet/standard/microservices-architecture/multi-container-microservice-net-applications/implement-api-gateways-with-ocelot)
+* [Building API Gateway Using Ocelot In ASP.NET Core - Basic](http://www.c-sharpcorner.com/article/building-api-gateway-using-ocelot-in-asp-net-core/)
+* [Building API Gateway Using Ocelot In ASP.NET Core - Authentication](http://www.c-sharpcorner.com/article/building-api-gateway-using-ocelot-in-asp-net-core-part-two/)
+* [Building API Gateway Using Ocelot In ASP.NET Core - Logging](http://www.c-sharpcorner.com/article/building-api-gateway-using-ocelot-in-asp-net-core-part-three-logging2/)
+* [Building API Gateway Using Ocelot In ASP.NET Core - Rate Limiting](http://www.c-sharpcorner.com/article/building-api-gateway-using-ocelot-in-asp-net-core-rate-limiting-part-four/)
+* [Building API Gateway Using Ocelot In ASP.NET Core - QoS (Quality of Service) ](https://www.c-sharpcorner.com/article/building-api-gateway-using-ocelot-in-asp-net-core-qos/)
+* [Building API Gateway Using Ocelot In ASP.NET Core - Load Balancing](https://www.c-sharpcorner.com/article/building-api-gateway-using-ocelot-in-asp-net-core-load-balancing/)
+* [ Building API Gateway Using Ocelot In ASP.NET Core - Service Discovery (Eureka)](https://www.c-sharpcorner.com/article/building-api-gateway-using-ocelot-in-asp-net-core-service-discoveryeureka/)
+* [Microservices with IdentityServer4 and Ocelot Fronting a .NET Core API](https://squarewidget.com/microservices-with-identityserver4-and-ocelot-fronting-a-net-core-api/)
+* [Ocelot简易教程](https://github.com/yilezhu/OcelotDemo/wiki)
+* [Ocelot API网关的实现剖析](https://www.cnblogs.com/shanyou/p/7787183.html)
+* [基于Ocelot的API网关实现--http/https协议篇](https://www.cnblogs.com/SteveLee/p/Ocelot_Api_http_and_https.html)
+* [基于Ocelot的API网关Relay实现--RPC篇](https://www.cnblogs.com/SteveLee/p/Ocelot_Api_http_route_RPC.html)
+* [.NET Core微服务实战-统一身份认证 开篇及目录索引](https://www.cnblogs.com/jackcao/p/9928879.html)
+
+## Books
+* [.NET Microservices Architecture Guidance](https://dotnet.microsoft.com/learn/web/microservices-architecture)
 
 ## Conference talks
 * [.NET Core 在腾讯财付通的企业级应用开发实践](https://v.qq.com/iframe/player.html?vid=c0508ti8mxo)
+
+## ContribProject
+* [Ocelot Extensions is the project containing some extension to the popular open-source API Gateway engine Ocelot](https://github.com/childotg/Ocelot.Extensions)
+* [Ocelot.Provider.Database](https://github.com/tianxin8206/Ocelot.Provider.Database)
+* [This library makes ocelot easy to integrate swagger](https://github.com/Rwing/OcelotSwagger)
+* [SwaggerHelper 工具是在使用 Ocelot 时，为了将多个微服务的 Swagger.json 文件进行合并，以方便在 API 网关中使用 Swagger 工具](https://github.com/ZhongruiGroup/Swagger-Helper)
+* [MMLib.SwaggerForOcelot contains swagger extension for ocelot](https://github.com/Burgyn/MMLib.SwaggerForOcelot)
+* [Ocelot.JWTAuthorize is a JWT Authorize based on Ocelot API Gateway](https://github.com/axzxs2001/Ocelot.JWTAuthorize)
+*  [Ocelot.Security.AuthorizationToken.EntityFramework](https://github.com/aqa510415008/Ocelot.Security.AuthorizationToken.EntityFramework)
+* [grpc service gateway used ocelot](https://github.com/BuiltCloud/Ocelot.GrpcHttpGateway)
+* [grpc service gateway used ocelot](https://github.com/yuezhishun/Ocelot.GrpcHttpGateway)
+* [Repo for ZooKeeper integration with Ocelot](https://github.com/BuiltCloud/Ocelot.Provider.ZooKeeper)
+* [Repo for Etcd integration with Ocelot](https://github.com/BuiltCloud/Ocelot.Provider.Etcd)
+* [Orleans can use Ocelot Api Gateway](https://github.com/aqa510415008/Ocelot.OrleansHttpGateway)
+* [Ocelot 的配置工具](https://github.com/JustWei-OST/Ocelot.Configurator)
+* [A configuration editor for Ocelot](https://github.com/dbarkwell/Ocelot.ConfigEditor)
 
 ## Inspiring Open Source Contributors
 * [Tom Pallister](https://github.com/TomPallister)
@@ -32,43 +68,6 @@ WebSite: http://threemammals.com/ocelot
 * [docker Ocelot Console Identityserver4](https://github.com/cysnet/docker-microserver)
 * [重写Ocelot配置文件获取方式从数据库中获取，并重写认证以及限流功能。可以针对每个客户端对每个API的访问进行限制](https://github.com/yilezhu/Ocelot.ConfigAuthLimitCache)
 
-## Article series
-* [Developing an Open Source API Gateway at Moonpig](https://engineering.moonpig.com/development/developing-open-source-api-gateway-moonpig)
-* [Designing and implementing API Gateways with Ocelot in .NET Core containers and microservices architectures](https://blogs.msdn.microsoft.com/cesardelatorre/2018/05/15/designing-and-implementing-api-gateways-with-ocelot-in-a-microservices-and-container-based-architecture/)
-* [Implement API Gateways with Ocelot](https://docs.microsoft.com/en-us/dotnet/standard/microservices-architecture/multi-container-microservice-net-applications/implement-api-gateways-with-ocelot)
-* [Building API Gateway Using Ocelot In ASP.NET Core - Basic](http://www.c-sharpcorner.com/article/building-api-gateway-using-ocelot-in-asp-net-core/)
-* [Building API Gateway Using Ocelot In ASP.NET Core - Authentication](http://www.c-sharpcorner.com/article/building-api-gateway-using-ocelot-in-asp-net-core-part-two/)
-* [Building API Gateway Using Ocelot In ASP.NET Core - Logging](http://www.c-sharpcorner.com/article/building-api-gateway-using-ocelot-in-asp-net-core-part-three-logging2/)
-* [Building API Gateway Using Ocelot In ASP.NET Core - Rate Limiting](http://www.c-sharpcorner.com/article/building-api-gateway-using-ocelot-in-asp-net-core-rate-limiting-part-four/)
-* [Building API Gateway Using Ocelot In ASP.NET Core - QoS (Quality of Service) ](https://www.c-sharpcorner.com/article/building-api-gateway-using-ocelot-in-asp-net-core-qos/)
-* [Building API Gateway Using Ocelot In ASP.NET Core - Load Balancing](https://www.c-sharpcorner.com/article/building-api-gateway-using-ocelot-in-asp-net-core-load-balancing/)
-* [ Building API Gateway Using Ocelot In ASP.NET Core - Service Discovery (Eureka)](https://www.c-sharpcorner.com/article/building-api-gateway-using-ocelot-in-asp-net-core-service-discoveryeureka/)
-* [Microservices with IdentityServer4 and Ocelot Fronting a .NET Core API](https://squarewidget.com/microservices-with-identityserver4-and-ocelot-fronting-a-net-core-api/)
-* [Ocelot简易教程](https://github.com/yilezhu/OcelotDemo/wiki)
-* [Ocelot API网关的实现剖析](https://www.cnblogs.com/shanyou/p/7787183.html)
-* [基于Ocelot的API网关实现--http/https协议篇](https://www.cnblogs.com/SteveLee/p/Ocelot_Api_http_and_https.html)
-* [基于Ocelot的API网关Relay实现--RPC篇](https://www.cnblogs.com/SteveLee/p/Ocelot_Api_http_route_RPC.html)
-* [.NET Core微服务实战-统一身份认证 开篇及目录索引](https://www.cnblogs.com/jackcao/p/9928879.html)
-
-
-## OcelotContrib
-* [Ocelot Extensions is the project containing some extension to the popular open-source API Gateway engine Ocelot](https://github.com/childotg/Ocelot.Extensions)
-* [Ocelot.Provider.Database](https://github.com/tianxin8206/Ocelot.Provider.Database)
-* [This library makes ocelot easy to integrate swagger](https://github.com/Rwing/OcelotSwagger)
-* [SwaggerHelper 工具是在使用 Ocelot 时，为了将多个微服务的 Swagger.json 文件进行合并，以方便在 API 网关中使用 Swagger 工具](https://github.com/ZhongruiGroup/Swagger-Helper)
-* [MMLib.SwaggerForOcelot contains swagger extension for ocelot](https://github.com/Burgyn/MMLib.SwaggerForOcelot)
-* [Ocelot.JWTAuthorize is a JWT Authorize based on Ocelot API Gateway](https://github.com/axzxs2001/Ocelot.JWTAuthorize)
-*  [Ocelot.Security.AuthorizationToken.EntityFramework](https://github.com/aqa510415008/Ocelot.Security.AuthorizationToken.EntityFramework)
-* [grpc service gateway used ocelot](https://github.com/BuiltCloud/Ocelot.GrpcHttpGateway)
-* [grpc service gateway used ocelot](https://github.com/yuezhishun/Ocelot.GrpcHttpGateway)
-* [Repo for ZooKeeper integration with Ocelot](https://github.com/BuiltCloud/Ocelot.Provider.ZooKeeper)
-* [Repo for Etcd integration with Ocelot](https://github.com/BuiltCloud/Ocelot.Provider.Etcd)
-* [Orleans can use Ocelot Api Gateway](https://github.com/aqa510415008/Ocelot.OrleansHttpGateway)
-* [Ocelot 的配置工具](https://github.com/JustWei-OST/Ocelot.Configurator)
-* [A configuration editor for Ocelot](https://github.com/dbarkwell/Ocelot.ConfigEditor)
-
-## Books
-* [.NET Microservices Architecture Guidance](https://dotnet.microsoft.com/learn/web/microservices-architecture)
 
 ## Video
 * [https://www.youtube.com/watch?v=kl-NeEAb1WQ](https://www.youtube.com/watch?v=kl-NeEAb1WQ)
