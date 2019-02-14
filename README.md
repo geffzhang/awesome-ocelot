@@ -51,7 +51,7 @@ WebSite: http://threemammals.com/ocelot
 * [Tom Pallister](https://github.com/TomPallister)
 * [Philip Wood](https://github.com/binarymash)
 * [geffzhang](https://github.com/geffzhang)
-* [阿凌](https://github.com/aqa510415008)
+* [阿凌](https://github.com/AClumsy)
 * [Phil Proctor](https://github.com/philproctor)
 * [Thiago Loureiro](https://github.com/thiagoloureiro)
 * [Felix Boers](https://github.com/FelixBoers)
