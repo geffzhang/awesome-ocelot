@@ -21,6 +21,9 @@ WebSite: http://threemammals.com/ocelot
 * [基于Ocelot的API网关实现--http/https协议篇](https://www.cnblogs.com/SteveLee/p/Ocelot_Api_http_and_https.html)
 * [基于Ocelot的API网关Relay实现--RPC篇](https://www.cnblogs.com/SteveLee/p/Ocelot_Api_http_route_RPC.html)
 * [.NET Core微服务实战-统一身份认证 开篇及目录索引](https://www.cnblogs.com/jackcao/p/9928879.html)
+* [ASP.NET Core中Ocelot的使用：API网关的应用](http://sunnycoding.cn/2018/10/29/aspnetcore-ocelot-get-started/)
+* [ASP.NET Core中Ocelot的使用：基于Spring Cloud Netflix Eureka的动态路由](http://sunnycoding.cn/2018/11/03/aspnetcore-ocelot-dynamic-routing-with-eureka/)
+* [ASP.NET Core中Ocelot的使用：基于服务发现的负载均衡](http://sunnycoding.cn/2018/11/06/aspnetcore-ocelot-service-discovery-load-balancing/)
 
 ## Books
 * [.NET Microservices Architecture Guidance](https://dotnet.microsoft.com/learn/web/microservices-architecture)
