@@ -70,6 +70,7 @@ WebSite: http://threemammals.com/ocelot
 * [集IdentityServer4,Ef Core,dapper,Policy,领域驱动设计,consul,zipkin,Swagger,Cap+RabbitMq,Ocelot网关一体的项目](https://github.com/476515159/IdentityServer4Sample)
 * [docker Ocelot Console Identityserver4](https://github.com/cysnet/docker-microserver)
 * [重写Ocelot配置文件获取方式从数据库中获取，并重写认证以及限流功能。可以针对每个客户端对每个API的访问进行限制](https://github.com/yilezhu/Ocelot.ConfigAuthLimitCache)
+* [ABP Microservice Demo Solution](https://github.com/abpframework/abp/blob/master/docs/en/Samples/Microservice-Demo.md)
 
 
 ## Video
