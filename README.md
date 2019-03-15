@@ -24,6 +24,7 @@ WebSite: http://threemammals.com/ocelot
 * [ASP.NET Core中Ocelot的使用：API网关的应用](http://sunnycoding.cn/2018/10/29/aspnetcore-ocelot-get-started/)
 * [ASP.NET Core中Ocelot的使用：基于Spring Cloud Netflix Eureka的动态路由](http://sunnycoding.cn/2018/11/03/aspnetcore-ocelot-dynamic-routing-with-eureka/)
 * [ASP.NET Core中Ocelot的使用：基于服务发现的负载均衡](http://sunnycoding.cn/2018/11/06/aspnetcore-ocelot-service-discovery-load-balancing/)
+* [基于Ocelot 和 ant-design-vue 后台框架](https://github.com/AClumsy/ASF)
 
 ## Books
 * [.NET Microservices Architecture Guidance](https://dotnet.microsoft.com/learn/web/microservices-architecture)
