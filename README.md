@@ -1,9 +1,9 @@
 ﻿# awesome ocelot
 A curated list of awesome ocelot books, courses, trainings, conference talks, blogs and most inspiring open source contributors
 
-Github: https://github.com/ThreeMammals/Ocelot
-WebSite: http://threemammals.com/ocelot
-Docs：https://ocelot.readthedocs.io/en/latest/
+* [Github: https://github.com/ThreeMammals/Ocelot](https://github.com/ThreeMammals/Ocelot)
+* [WebSite: http://threemammals.com/ocelot](http://threemammals.com/ocelot)
+* [Docs：https://ocelot.readthedocs.io/en/latest/](https://ocelot.readthedocs.io/en/latest/)
 
 ## Article series
 * [Developing an Open Source API Gateway at Moonpig](https://engineering.moonpig.com/development/developing-open-source-api-gateway-moonpig)
