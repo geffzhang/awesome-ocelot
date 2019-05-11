@@ -88,10 +88,10 @@ A curated list of awesome ocelot books, courses, trainings, conference talks, bl
 
 > In accordance with the order of registration, more access to the company, Welcome to register in [https://github.com/geffzhang/awesome-ocelot/issues/1](https://github.com/geffzhang/awesome-ocelot/issues/1)
 
-![Tencent](https://github.com/geffzhang/awesome-ocelot/blob/master/docs/images/known-users/tencent.jpg) 
-![Microsoft](https://github.com/geffzhang/awesome-ocelot/blob/master/docs/images/known-users/microsoft.jpg) 
-![上海程析智能科技有限公司](https://github.com/geffzhang/awesome-ocelot/blob/master/docs/images/known-users/cxist.png) 
-![深圳市友浩达科技有限公司](https://github.com/geffzhang/awesome-ocelot/blob/master/docs/images/known-users/weyhd.png)
+![Tencent](docs/images/known-users/tencent.jpg) 
+![Microsoft](docs/images/known-users/microsoft.jpg) 
+![上海程析智能科技有限公司](docs/images/known-users/cxist.png) 
+![深圳市友浩达科技有限公司](docs/images/known-users/weyhd.png)
 ![OPPO](docs/images/known-users/OPPO.png)
 
 # Stargazers over time
