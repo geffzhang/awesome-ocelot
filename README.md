@@ -25,7 +25,8 @@ A curated list of awesome ocelot books, courses, trainings, conference talks, bl
 * [ASP.NET Core中Ocelot的使用：API网关的应用](http://sunnycoding.cn/2018/10/29/aspnetcore-ocelot-get-started/)
 * [ASP.NET Core中Ocelot的使用：基于Spring Cloud Netflix Eureka的动态路由](http://sunnycoding.cn/2018/11/03/aspnetcore-ocelot-dynamic-routing-with-eureka/)
 * [ASP.NET Core中Ocelot的使用：基于服务发现的负载均衡](http://sunnycoding.cn/2018/11/06/aspnetcore-ocelot-service-discovery-load-balancing/)
-
+* [常见跨域解决方案以及Ocelot 跨域配置](https://www.cnblogs.com/weihanli/p/config-cors-in-ocelot.html)
+* [ASP.NET Core Swagger接入使用IdentityServer4 的 WebApi](https://www.cnblogs.com/xiaxiaolu/p/10847248.html)
 
 ## Books
 * [.NET Microservices Architecture Guidance](https://dotnet.microsoft.com/learn/web/microservices-architecture)
@@ -90,7 +91,8 @@ A curated list of awesome ocelot books, courses, trainings, conference talks, bl
 ![Tencent](https://github.com/geffzhang/awesome-ocelot/blob/master/docs/images/known-users/tencent.jpg) 
 ![Microsoft](https://github.com/geffzhang/awesome-ocelot/blob/master/docs/images/known-users/microsoft.jpg) 
 ![上海程析智能科技有限公司](https://github.com/geffzhang/awesome-ocelot/blob/master/docs/images/known-users/cxist.png) 
-![深圳市友浩达科技有限公司](https://github.com/geffzhang/awesome-ocelot/blob/master/docs/images/known-users/weyhd.png) 
+![深圳市友浩达科技有限公司](https://github.com/geffzhang/awesome-ocelot/blob/master/docs/images/known-users/weyhd.png)
+![OPPO](docs/images/known-users/OPPO.png)
 
 # Stargazers over time
 [![Stargazers over time](https://starcharts.herokuapp.com/ThreeMammals/Ocelot.svg)](https://starcharts.herokuapp.com/ThreeMammals/Ocelot)
