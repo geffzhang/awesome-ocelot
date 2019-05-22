@@ -77,6 +77,7 @@ A curated list of awesome ocelot books, courses, trainings, conference talks, bl
 * [重写Ocelot配置文件获取方式从数据库中获取，并重写认证以及限流功能。可以针对每个客户端对每个API的访问进行限制](https://github.com/yilezhu/Ocelot.ConfigAuthLimitCache)
 * [ABP Microservice Demo Solution](https://github.com/abpframework/abp/blob/master/docs/en/Samples/Microservice-Demo.md)
 * [基于Ocelot 和 ant-design-vue 后台框架](https://github.com/AClumsy/ASF)
+* [Magicodes.Simple.Services](https://github.com/magicodes/Magicodes.Simple.Services)
 
 
 ## Video
