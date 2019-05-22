@@ -27,6 +27,8 @@ A curated list of awesome ocelot books, courses, trainings, conference talks, bl
 * [ASP.NET Core中Ocelot的使用：基于服务发现的负载均衡](http://sunnycoding.cn/2018/11/06/aspnetcore-ocelot-service-discovery-load-balancing/)
 * [常见跨域解决方案以及Ocelot 跨域配置](https://www.cnblogs.com/weihanli/p/config-cors-in-ocelot.html)
 * [ASP.NET Core Swagger接入使用IdentityServer4 的 WebApi](https://www.cnblogs.com/xiaxiaolu/p/10847248.html)
+* [构建自己的简单微服务架构（开源）](https://www.cnblogs.com/codelove/p/10904425.html)
+* [让 Ocelot 与 asp.net core “共存”](https://www.cnblogs.com/weihanli/p/integrate-ocelot-route-with-aspnetcore.html)
 
 ## Books
 * [.NET Microservices Architecture Guidance](https://dotnet.microsoft.com/learn/web/microservices-architecture)
