@@ -29,6 +29,7 @@ A curated list of awesome ocelot books, courses, trainings, conference talks, bl
 * [ASP.NET Core Swagger接入使用IdentityServer4 的 WebApi](https://www.cnblogs.com/xiaxiaolu/p/10847248.html)
 * [构建自己的简单微服务架构（开源）](https://www.cnblogs.com/codelove/p/10904425.html)
 * [让 Ocelot 与 asp.net core “共存”](https://www.cnblogs.com/weihanli/p/integrate-ocelot-route-with-aspnetcore.html)
+* [Ocelot - .Net Core开源网关](https://www.cnblogs.com/markjiang7m2/p/10857688.html)
 
 ## Books
 * [.NET Microservices Architecture Guidance](https://dotnet.microsoft.com/learn/web/microservices-architecture)
