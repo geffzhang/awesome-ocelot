@@ -79,6 +79,7 @@ A curated list of awesome ocelot books, courses, trainings, conference talks, bl
 * [ABP Microservice Demo Solution](https://github.com/abpframework/abp/blob/master/docs/en/Samples/Microservice-Demo.md)
 * [基于Ocelot 和 ant-design-vue 后台框架](https://github.com/AClumsy/ASF)
 * [Magicodes.Simple.Services](https://github.com/magicodes/Magicodes.Simple.Services)
+* [Sales Module based on dockerized ASP.NET Core Web API, Ocelot Gateway, Azure Service Bus](https://github.com/lwojtkowski/SalesModule)
 
 
 ## Video
