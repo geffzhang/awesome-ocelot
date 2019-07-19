@@ -16,6 +16,7 @@ A curated list of awesome ocelot books, courses, trainings, conference talks, bl
 * [Building API Gateway Using Ocelot In ASP.NET Core - QoS (Quality of Service) ](https://www.c-sharpcorner.com/article/building-api-gateway-using-ocelot-in-asp-net-core-qos/)
 * [Building API Gateway Using Ocelot In ASP.NET Core - Load Balancing](https://www.c-sharpcorner.com/article/building-api-gateway-using-ocelot-in-asp-net-core-load-balancing/)
 * [ Building API Gateway Using Ocelot In ASP.NET Core - Service Discovery (Eureka)](https://www.c-sharpcorner.com/article/building-api-gateway-using-ocelot-in-asp-net-core-service-discoveryeureka/)
+* [ Building API Gateway Using Ocelot In ASP.NET Core - Service Discovery (Consul)](https://www.c-sharpcorner.com/article/building-api-gateway-using-ocelot-in-asp-net-core-service-discovery-consul/)
 * [Microservices with IdentityServer4 and Ocelot Fronting a .NET Core API](https://squarewidget.com/microservices-with-identityserver4-and-ocelot-fronting-a-net-core-api/)
 * [Ocelot简易教程](https://github.com/yilezhu/OcelotDemo/wiki)
 * [Ocelot API网关的实现剖析](https://www.cnblogs.com/shanyou/p/7787183.html)
