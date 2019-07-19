@@ -53,6 +53,7 @@ A curated list of awesome ocelot books, courses, trainings, conference talks, bl
 * [Orleans can use Ocelot Api Gateway](https://github.com/aqa510415008/Ocelot.OrleansHttpGateway)
 * [Ocelot 的配置工具](https://github.com/JustWei-OST/Ocelot.Configurator)
 * [A configuration editor for Ocelot](https://github.com/dbarkwell/Ocelot.ConfigEditor)
+* [Repo for EasyCaching integration with Ocelot](https://github.com/catcherwong/Ocelot.Cache.EasyCaching)
 
 ## Inspiring Open Source Contributors
 * [Tom Pallister](https://github.com/TomPallister)
