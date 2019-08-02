@@ -32,6 +32,7 @@ A curated list of awesome ocelot books, courses, trainings, conference talks, bl
 * [让 Ocelot 与 asp.net core “共存”](https://www.cnblogs.com/weihanli/p/integrate-ocelot-route-with-aspnetcore.html)
 * [Ocelot - .Net Core开源网关](https://www.cnblogs.com/markjiang7m2/p/10857688.html)
 * [百亿流量微服务网关的设计与实现](https://www.infoq.cn/article/EeE1xZeic4UdpbmR*03t)
+* [重复造轮子系列——基于Ocelot实现类似支付宝接口模式的网关](https://www.cnblogs.com/sylla/p/11248027.html)
 
 ## Books
 * [.NET Microservices Architecture Guidance](https://dotnet.microsoft.com/learn/web/microservices-architecture)
