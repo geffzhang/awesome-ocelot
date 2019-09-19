@@ -91,6 +91,7 @@ A curated list of awesome ocelot books, courses, trainings, conference talks, bl
 * [https://www.youtube.com/watch?v=Kvj1g6dLAZw](https://www.youtube.com/watch?v=Kvj1g6dLAZw)
 * [Ocelot Api Gateway with ASP.NET Core 2.1 and VS Code](https://codango.com/ocelot-api-gateway-with-asp-net-core-2-1-and-vs-code/)
 * [Tencent updates web and mobile payment infrastructure for better scalability and agility](http://videos.microsoft.com/customer-stories/watch/Ub3bRAkE76CkemSfXkioug)
+*[Microservices API Gateways — Ocelot for .NET Core + Video](https://medium.com/hypertrends/microservices-api-gateways-ocelot-for-net-core-video-8bbd4ed3be8f)
 
 
 ## Known Users
