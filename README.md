@@ -86,6 +86,7 @@ A curated list of awesome ocelot books, courses, trainings, conference talks, bl
 * [Magicodes.Simple.Services](https://github.com/magicodes/Magicodes.Simple.Services)
 * [Sales Module based on dockerized ASP.NET Core Web API, Ocelot Gateway, Azure Service Bus](https://github.com/lwojtkowski/SalesModule)
 * [Web API for Pitch in a microservices architecture on containers](https://github.com/pitch-game/pitch-api)
+* [Demo for a scenario where API is accessed through Ocelot gateway and Ocelot uses IdentityServer and Azure Ad for authentication](https://github.com/mikoskinen/OcelotIdentityServerAzureAdWithApi)
 
 
 ## Video
