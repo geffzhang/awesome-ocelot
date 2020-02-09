@@ -89,6 +89,7 @@ A curated list of awesome ocelot books, courses, trainings, conference talks, bl
 * [Web API for Pitch in a microservices architecture on containers](https://github.com/pitch-game/pitch-api)
 * [Demo for a scenario where API is accessed through Ocelot gateway and Ocelot uses IdentityServer and Azure Ad for authentication](https://github.com/mikoskinen/OcelotIdentityServerAzureAdWithApi)
 * [Very simplified insurance sales system made in a microservices architecture using .NET Core](https://github.com/asc-lab/dotnetcore-microservices-poc)
+* [MicroService.ApiGateway](https://github.com/colinin/MicroService.ApiGateway)
 
 ## Video
 * [https://www.youtube.com/watch?v=kl-NeEAb1WQ](https://www.youtube.com/watch?v=kl-NeEAb1WQ)
