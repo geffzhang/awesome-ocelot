@@ -58,6 +58,7 @@ A curated list of awesome ocelot books, courses, trainings, conference talks, bl
 * [A configuration editor for Ocelot](https://github.com/dbarkwell/Ocelot.ConfigEditor)
 * [Repo for EasyCaching integration with Ocelot](https://github.com/catcherwong/Ocelot.Cache.EasyCaching)
 * [A filter which allows a RESTful JSON API client to send requests to .NET web server over HTTP and get proxied to a gRPC service](https://github.com/thangchung/GrpcJsonTranscoder)
+* [AppConfiguration provider brings the possibility to divide the routing configuration from the service address definition.](https://github.com/Burgyn/MMLib.Ocelot.Provider.AppConfiguration)
 
 ## Inspiring Open Source Contributors
 * [Tom Pallister](https://github.com/TomPallister)
