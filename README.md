@@ -91,6 +91,7 @@ A curated list of awesome ocelot books, courses, trainings, conference talks, bl
 * [Demo for a scenario where API is accessed through Ocelot gateway and Ocelot uses IdentityServer and Azure Ad for authentication](https://github.com/mikoskinen/OcelotIdentityServerAzureAdWithApi)
 * [Very simplified insurance sales system made in a microservices architecture using .NET Core](https://github.com/asc-lab/dotnetcore-microservices-poc)
 * [MicroService.ApiGateway](https://github.com/colinin/MicroService.ApiGateway)
+* [develop a payment platform that would allow you to make payment transactions thanks to the QR code, thereby reducing the human factor in customer service and allowing the system to be as autonomous as possible.](https://github.com/securedevteam/Payment-Platform)
 
 ## Video
 * [https://www.youtube.com/watch?v=kl-NeEAb1WQ](https://www.youtube.com/watch?v=kl-NeEAb1WQ)
