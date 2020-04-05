@@ -111,5 +111,9 @@ A curated list of awesome ocelot books, courses, trainings, conference talks, bl
 ![深圳市友浩达科技有限公司](docs/images/known-users/weyhd.png)
 ![OPPO](docs/images/known-users/OPPO.png)
 
+# nuget trends
+
+![https://nugt.net/s/BpPWpJf](docs/images/nugettrends.png)
+
 # Stargazers over time
 [![Stargazers over time](https://starcharts.herokuapp.com/ThreeMammals/Ocelot.svg)](https://starcharts.herokuapp.com/ThreeMammals/Ocelot)
