@@ -34,6 +34,7 @@ A curated list of awesome ocelot books, courses, trainings, conference talks, bl
 * [百亿流量微服务网关的设计与实现](https://www.infoq.cn/article/EeE1xZeic4UdpbmR*03t)
 * [重复造轮子系列——基于Ocelot实现类似支付宝接口模式的网关](https://www.cnblogs.com/sylla/p/11248027.html)
 * [Extending Ocelot's QoS](https://thegrayzone.co.uk/blog//2019/11/ocelot-quality-of-service/)
+* [ocelot性能测试](https://www.cnblogs.com/wswind/p/Ocelot-Performance-Test.html)
 
 
 ## Books
@@ -92,6 +93,7 @@ A curated list of awesome ocelot books, courses, trainings, conference talks, bl
 * [Very simplified insurance sales system made in a microservices architecture using .NET Core](https://github.com/asc-lab/dotnetcore-microservices-poc)
 * [MicroService.ApiGateway](https://github.com/colinin/MicroService.ApiGateway)
 * [develop a payment platform that would allow you to make payment transactions thanks to the QR code, thereby reducing the human factor in customer service and allowing the system to be as autonomous as possible.](https://github.com/securedevteam/Payment-Platform)
+* [MicroserviceDemo](https://github.com/iamxiaozhuang/MicroserviceDemo)
 
 ## Video
 * [https://www.youtube.com/watch?v=kl-NeEAb1WQ](https://www.youtube.com/watch?v=kl-NeEAb1WQ)
