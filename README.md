@@ -35,6 +35,7 @@ A curated list of awesome ocelot books, courses, trainings, conference talks, bl
 * [重复造轮子系列——基于Ocelot实现类似支付宝接口模式的网关](https://www.cnblogs.com/sylla/p/11248027.html)
 * [Extending Ocelot's QoS](https://thegrayzone.co.uk/blog//2019/11/ocelot-quality-of-service/)
 * [ocelot性能测试](https://www.cnblogs.com/wswind/p/Ocelot-Performance-Test.html)
+* [为Ocelot集成Nacos注册中心](https://www.cnblogs.com/wucy/p/13353824.html)
 
 
 ## Books
@@ -60,6 +61,7 @@ A curated list of awesome ocelot books, courses, trainings, conference talks, bl
 * [Repo for EasyCaching integration with Ocelot](https://github.com/catcherwong/Ocelot.Cache.EasyCaching)
 * [A filter which allows a RESTful JSON API client to send requests to .NET web server over HTTP and get proxied to a gRPC service](https://github.com/thangchung/GrpcJsonTranscoder)
 * [AppConfiguration provider brings the possibility to divide the routing configuration from the service address definition.](https://github.com/Burgyn/MMLib.Ocelot.Provider.AppConfiguration)
+* [Ocelot.Provider.Nacos](https://github.com/softlgl/Ocelot.Provider.Nacos)
 
 ## Inspiring Open Source Contributors
 * [Tom Pallister](https://github.com/TomPallister)
