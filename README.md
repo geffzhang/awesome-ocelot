@@ -62,6 +62,7 @@ A curated list of awesome ocelot books, courses, trainings, conference talks, bl
 * [A filter which allows a RESTful JSON API client to send requests to .NET web server over HTTP and get proxied to a gRPC service](https://github.com/thangchung/GrpcJsonTranscoder)
 * [AppConfiguration provider brings the possibility to divide the routing configuration from the service address definition.](https://github.com/Burgyn/MMLib.Ocelot.Provider.AppConfiguration)
 * [Ocelot.Provider.Nacos](https://github.com/softlgl/Ocelot.Provider.Nacos)
+* [Ocelot Graceful Load Balancer](https://github.com/sjefvanleeuwen/ocelot-graceful-load-balancer) -- A Provider for Ocelot which provides a Round Robin Load Balancer with API Nodes Health Checking
 
 ## Inspiring Open Source Contributors
 * [Tom Pallister](https://github.com/TomPallister)
