@@ -47,6 +47,7 @@ A curated list of awesome ocelot books, courses, trainings, conference talks, bl
 ## ContribProject
 * [Ocelot Extensions is the project containing some extension to the popular open-source API Gateway engine Ocelot](https://github.com/childotg/Ocelot.Extensions)
 * [This library makes ocelot easy to integrate swagger](https://github.com/Rwing/OcelotSwagger)
+* [Ocelot + Consul 微服务合并swagger文档并可直接请求调试](https://github.com/xuyiazl/Ocelot.Swagger)
 * [SwaggerHelper 工具是在使用 Ocelot 时，为了将多个微服务的 Swagger.json 文件进行合并，以方便在 API 网关中使用 Swagger 工具](https://github.com/ZhongruiGroup/Swagger-Helper)
 * [MMLib.SwaggerForOcelot contains swagger extension for ocelot](https://github.com/Burgyn/MMLib.SwaggerForOcelot)
 * [Ocelot.JWTAuthorize is a JWT Authorize based on Ocelot API Gateway](https://github.com/axzxs2001/Ocelot.JWTAuthorize)
