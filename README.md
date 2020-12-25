@@ -64,6 +64,7 @@ A curated list of awesome ocelot books, courses, trainings, conference talks, bl
 * [AppConfiguration provider brings the possibility to divide the routing configuration from the service address definition.](https://github.com/Burgyn/MMLib.Ocelot.Provider.AppConfiguration)
 * [Ocelot.Provider.Nacos](https://github.com/softlgl/Ocelot.Provider.Nacos)
 * [Ocelot Graceful Load Balancer](https://github.com/sjefvanleeuwen/ocelot-graceful-load-balancer) -- A Provider for Ocelot which provides a Round Robin Load Balancer with API Nodes Health Checking
+* [CodePlus.ApiGateway.Blazor](https://github.com/CacoCode/CodePlus.ApiGateway.Blazor)-- 基于Ant Design Blazor 实现的服务器网关管理、监控框架
 
 ## Inspiring Open Source Contributors
 * [Tom Pallister](https://github.com/TomPallister)
