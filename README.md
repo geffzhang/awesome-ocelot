@@ -101,6 +101,7 @@ A curated list of awesome ocelot books, courses, trainings, conference talks, bl
 * [MicroserviceDemo](https://github.com/iamxiaozhuang/MicroserviceDemo)
 * [Hermes.Gateway](https://github.com/krzysztofla/Hermes.Gateway)--Hermes Gateway is Ocelot based gateway used for routing async & sync requests. It is also used to distribute async messages on Message Bus
 * [Adnc是一个轻量级的.Net Core微服务快速开发框架](https://github.com/AlphaYu/Adnc) 
+* [CodePlus.ApiGateway.Blazor](https://github.com/CacoCode/CodePlus.ApiGateway.Blazor) --基于Ant Design Blazor + Ocelot 实现的服务器网关管理、监控框架
 
 ## Video
 * [https://www.youtube.com/watch?v=kl-NeEAb1WQ](https://www.youtube.com/watch?v=kl-NeEAb1WQ)
