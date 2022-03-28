@@ -126,4 +126,4 @@ A curated list of awesome ocelot books, courses, trainings, conference talks, bl
 ![https://nugt.net/s/BpPWpJf](docs/images/nugettrends.png)
 
 # Stargazers over time
-[![Stargazers over time](https://starcharts.herokuapp.com/ThreeMammals/Ocelot.svg)](https://starcharts.herokuapp.com/ThreeMammals/Ocelot)
+[![Stargazers over time](https://starchart.cc/ThreeMammals/Ocelot.svg)](https://starchart.cc/ThreeMammals/Ocelot)
